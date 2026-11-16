@@ -2,7 +2,8 @@
 
 A minimalist, high-contrast static landing page built to present my profile, technical skills, and software development repositories. Hosted for free on **GitHub Pages**, this project operates without databases, external trackers, or client-side JavaScript.
 
-**Live Site:** [https://giulianoml.github.io](giulianoml.github.io/Portfolio/)
+**Live Site:** [](giulianoml.github.io/Portfolio/)
+**Live Site:** [](giulianoml.github.io/Portfolio/)
 
 ## Overview
 
