@@ -2,9 +2,8 @@
 
 A minimalist, high-contrast static landing page built to present my profile, technical skills, and software development repositories. Hosted for free on **GitHub Pages**, this project operates without databases, external trackers, or client-side JavaScript.
 
-**Live Site:** [](giulianoml.github.io/Portfolio/)
-**Live Site:** [](giulianoml.github.io/Portfolio/)
-
+**Live Site:** [(giulianoml.github.io/Portfolio/)](giulianoml.github.io/Portfolio/)
+**Live Site:** []
 ## Overview
 
 As an **Information Systems** student at the **University of Uberaba (Uniube)**, I designed this portfolio to serve as a fast, reliable central hub connecting my code repositories and professional profiles. Every project card acts as a direct gateway to its respective repository on GitHub.
